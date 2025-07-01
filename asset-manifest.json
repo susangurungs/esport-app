@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/esport-app/static/css/main.2c75cb85.css",
+    "main.js": "/esport-app/static/js/main.e487f6fb.js",
+    "static/js/453.96453769.chunk.js": "/esport-app/static/js/453.96453769.chunk.js",
+    "index.html": "/esport-app/index.html",
+    "main.2c75cb85.css.map": "/esport-app/static/css/main.2c75cb85.css.map",
+    "main.e487f6fb.js.map": "/esport-app/static/js/main.e487f6fb.js.map",
+    "453.96453769.chunk.js.map": "/esport-app/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c75cb85.css",
+    "static/js/main.e487f6fb.js"
+  ]
+}
